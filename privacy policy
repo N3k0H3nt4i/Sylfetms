@@ -1,0 +1,149 @@
+# Sylfe – Privacy Policy
+
+**Last updated: November 2, 2026**
+
+This Privacy Policy explains how Sylfe ("the Bot", "we", "our", or "us") collects, processes, stores, and uses information when you interact with the Bot on Discord.
+
+By using Sylfe, you acknowledge that you have read this Privacy Policy.
+
+## 1. Information We Collect
+
+To provide and maintain the Bot, we may collect and process the following categories of information:
+
+### 1.1 Discord Information
+
+When you interact with Sylfe, we may process:
+- Discord user IDs.
+- Discord server (guild) IDs.
+- Discord channel IDs where necessary for Bot functionality.
+- Server configuration and command preferences.
+- Information provided through interactions with Bot commands.
+
+### 1.2 osu! Information
+
+If you connect or use osu!-related features, we may process:
+- osu! user IDs and usernames.
+- Publicly available player profiles.
+- Scores, rankings, performance statistics, and beatmap information.
+- Information required to provide score tracking and notifications.
+
+### 1.3 Twitch Information
+
+When Twitch-related features are used, we may process publicly available Twitch account information and identifiers necessary to provide integrations, tracking, or notifications.
+
+### 1.4 Technical Information
+
+For operational and security purposes, we may process:
+- Error and diagnostic logs.
+- Information about command execution.
+- Technical information necessary to troubleshoot failures and maintain the Bot.
+
+We do not intentionally collect sensitive personal information through ordinary Bot commands.
+
+## 2. How We Use Information
+
+Collected information may be used to:
+
+- Provide the Bot's commands and functionality.
+- Retrieve and display osu! statistics and scores.
+- Provide live score tracking and notifications.
+- Manage server-specific configurations.
+- Support Twitch-related integrations.
+- Maintain, troubleshoot, and improve the Bot.
+- Detect abuse, unauthorized access, and technical issues.
+- Maintain the security and reliability of our infrastructure.
+
+We do not sell personal information to third parties.
+
+## 3. Data Storage and Retention
+
+Some information may be stored in databases and caches to ensure that the Bot functions correctly.
+
+Depending on the feature, this may include Discord identifiers, server configurations, linked account identifiers, and tracking-related information.
+
+Information is retained only for as long as reasonably necessary to provide the relevant functionality, maintain security, or meet applicable legal requirements.
+
+We may periodically remove outdated or unnecessary information.
+
+## 4. Third-Party Services
+
+Sylfe relies on external services to provide certain features.
+
+These may include:
+
+- **Discord** – Bot hosting integration, commands, and interactions.
+- **osu!** – Player profiles, scores, beatmaps, and statistics.
+- **Twitch** – Twitch-related integrations and notifications.
+- **o!rdr** – Live score tracking and related functionality.
+- **Hosting and infrastructure providers** – Database, caching, networking, and service operation.
+
+These services may process information according to their own privacy policies and terms.
+
+We are not responsible for the privacy practices of third-party services.
+
+## 5. Data Sharing
+
+We do not sell or rent personal information.
+
+Information may be processed or shared with third-party services only when necessary to:
+- Provide requested Bot functionality.
+- Communicate with external APIs.
+- Operate and maintain the Bot's infrastructure.
+- Protect the Bot, its users, and its infrastructure.
+- Comply with applicable legal obligations.
+
+We do not intentionally expose private user information to other Discord users.
+
+## 6. User Rights and Data Requests
+
+Depending on applicable law, you may have the right to:
+
+- Request information about personal data associated with your use of Sylfe.
+- Request correction of inaccurate information.
+- Request deletion of personal information where applicable.
+- Object to certain types of processing.
+- Withdraw consent where processing is based on consent.
+
+To submit a privacy-related request, contact the Sylfe development team through the official support server or designated contact channel.
+
+We may need to verify your identity before processing a request.
+
+Some information may need to be retained where required by law or for legitimate security purposes.
+
+## 7. Data Security
+
+We take reasonable technical and organizational measures to protect information processed by Sylfe.
+
+However, no online service or storage system can be guaranteed to be completely secure.
+
+We cannot guarantee that unauthorized access, data loss, or security incidents will never occur.
+
+## 8. Children's Privacy
+
+Sylfe is not specifically designed to collect personal information from children.
+
+Users are responsible for ensuring that their use of Discord and Sylfe complies with applicable age requirements and platform policies.
+
+If you believe that a child has provided personal information to us inappropriately, please contact the development team.
+
+## 9. International Data Transfers
+
+Depending on the infrastructure and third-party services used, information may be processed or stored in countries other than your country of residence.
+
+Where required, appropriate safeguards will be applied to such transfers in accordance with applicable data protection laws.
+
+## 10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the Bot, its functionality, infrastructure, or legal requirements.
+
+The latest version will be made available through an appropriate public location.
+
+Continued use of Sylfe after an updated policy takes effect constitutes acknowledgment of the updated policy, where permitted by applicable law.
+
+## 11. Contact
+
+For questions, privacy concerns, or data-related requests, contact the Sylfe development team through the official support server or another designated contact channel.
+
+---
+
+**By using Sylfe, you acknowledge that you have read this Privacy Policy.**
